@@ -1,2 +1,6 @@
 build/
 .*/
+/bin-obj/Debug-windows-x86_64/
+/bin/Debug-windows-x86_64/
+/ImGuizmo.vcxproj.user
+/ImGuizmo.vcxproj
